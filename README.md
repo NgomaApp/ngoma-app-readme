@@ -14,8 +14,8 @@ Ngoma is currently live on:
 - Apple App Store
 - Google Play Store
 
-- ![Home](assets/images/IMG_7455-portrait.png)
-- ![Home](assets/images/IMG_7460-portrait.png)
+  ![Home](assets/images/IMG_7455-portrait.png)
+  ![Home](assets/images/IMG_7460-portrait.png)
 
 Users can:
 - Discover verified healers
@@ -65,4 +65,4 @@ To formalise and digitise Africa’s spiritual economy, enabling trusted access,
 
 ## 📬 Contact
 For partnerships or collaboration:
-[Your Email]
+[lebo@siyangoma.co.za]
