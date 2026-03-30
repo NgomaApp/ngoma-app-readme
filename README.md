@@ -1,11 +1,11 @@
-# ngoma-app-readme
 # Ngoma
 
 ## 🌍 Overview
 Ngoma is a digital platform connecting verified traditional healers and spiritual practitioners with users seeking guidance, consultations, and healing products.
 
-We are building the trust layer for spiritual commerce in Africa.
+![Home](assets/images/IMG_7443-portrait.png)
 
+We are building the trust layer for spiritual commerce in Africa.
 ---
 
 ## 📱 Live Application
@@ -13,6 +13,9 @@ Ngoma is currently live on:
 
 - Apple App Store
 - Google Play Store
+
+- ![Home](assets/images/IMG_7455-portrait.png)
+- ![Home](assets/images/IMG_7460-portrait.png)
 
 Users can:
 - Discover verified healers
@@ -63,5 +66,3 @@ To formalise and digitise Africa’s spiritual economy, enabling trusted access,
 ## 📬 Contact
 For partnerships or collaboration:
 [Your Email]
-
-![Test](./assets/images/home.png)
