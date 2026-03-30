@@ -63,3 +63,5 @@ To formalise and digitise Africa’s spiritual economy, enabling trusted access,
 ## 📬 Contact
 For partnerships or collaboration:
 [Your Email]
+
+![Test](./assets/images/home.png)
